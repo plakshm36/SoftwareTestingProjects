@@ -2,6 +2,7 @@
 All the manual testing projects with documents
 
 **Project #1- Test case for CCD BREW COFFEE Machine**
+
 **Project #2- Test case for Login-VWO Login Page**
 
 ----------------------------------------------------------------------------
