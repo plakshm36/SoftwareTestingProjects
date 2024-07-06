@@ -7,7 +7,6 @@ All the manual testing projects with documents
 
 ----------------------------------------------------------------------------
 **Project #1- Test case for CCD BREW COFFEE Machine**
-Test Cases:
 
 **Task 1:TC for Coffee Machine**:https://docs.google.com/spreadsheets/d/1-TgBqKFUgvzm9TEe4sGNFM_Z07Ri_QgO4GNzsGmk91I/edit?usp=sharing
 
