@@ -17,4 +17,19 @@ All the manual testing projects with documents
 **Task 1:TestPlan for Coffee Machine drive link**
 https://docs.google.com/document/d/1LF9CmubRXrrzmxdBU-l-poeItCHsTVJG/edit?usp=drive_link&ouid=113067807953175617081&rtpof=true&sd=true
 
+----------------------------------------------------------------------------
+All the Postman API manual and Automation test scripts are added for both SoapAPI and Rest
+
+**Project #1-SOAP Project#1- WebService**
+
+**Project #2-REST Project#2-Restful Booker-PostmanManualTesting**
+
+**Project#3-AwesomeQA-Chainingof API example**
+
+**PramodCodeREST API Project#4 - Restful Booker withbasic automationscripts**
+
+**PramodCode-Project#5 - Restful Booker Integration Scenarios using scripts postmanautomation**
+
+**Postman -newman html report that run via cmdline**
+
 
