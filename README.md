@@ -31,5 +31,6 @@ All the Postman API manual and Automation test scripts are added for both SoapAP
 **PramodCode-Project#5 - Restful Booker Integration Scenarios using scripts postmanautomation**
 
 **Postman -newman html report that run via cmdline**
+![image](https://github.com/user-attachments/assets/b7fa432c-10ed-42f4-a5b2-ad2a94369103)
 
 
